@@ -1,26 +1,28 @@
-Hola, soy Buisar
-Website
-Email
-Location
+# BUISAR Cía. Ltda. | Equipos médicos en Ecuador
 
-Sobre nosotros
-Buisar es una empresa ecuatoriana especializada en productos medicos, insumos
-hospitalarios y servicios de salud. Distribuimos a clinicas, hospitales y
-profesionales de la salud en todo el pais.
+Somos una empresa ecuatoriana con sede en Quito. Comercializamos equipos médicos, insumos para laboratorio clínico e industrial, cabinas de bioseguridad y mobiliario médico.
 
-Lo que hacemos
-Productos medicos certificados (INVIT, equipos, consumibles)
-Servicios de mantenimiento y calibracion de equipos medicos
-Blog de educacion en salud y normativas locales
-Repositorios destacados
-Proyecto
-Descripcion
-buisar-web	Sitio web principal (Next.js / React)
-buisar-tienda	E-commerce de productos medicos
-buisar-blog	CMS del blog
+[Visita nuestra web](https://buisar.net/) · [Consulta nuestros desfibriladores](https://buisar.net/7-soporte-vital-dea)
 
-Como contactarnos
-Web: https://www.buisar.net
-Email: contabilidad@buisar.net
-Quito, Ecuador
-No olvides revisar nuestros productos medicos.
+## Desfibriladores PRIMEDIC HeartSave myPAD
+
+Una emergencia no espera. Preparar a tu organización empieza por contar con un desfibrilador externo automático (DEA) disponible y personas capacitadas para actuar.
+
+En BUISAR te acompañamos con la cotización del **PRIMEDIC HeartSave myPAD** y capacitación en **reanimación cardiopulmonar (RCP) y uso del DEA** para empresas, instituciones educativas e instalaciones deportivas.
+
+[Conoce el HeartSave myPAD y solicita una cotización](https://buisar.net/equipos-de-bioseguridad-y-medicos/326-primedic-mypad-desfibrilador-externo-automatico-dea-portatil.html)
+
+## Nuestras líneas
+
+- Cardioprotección y desfibriladores.
+- Equipos e insumos médicos.
+- Equipos e insumos de laboratorio clínico e industrial.
+- Cabinas de bioseguridad y flujo laminar.
+- Mobiliario médico.
+
+## Contacto comercial
+
+- **WhatsApp:** [0999662210](https://wa.me/593999662210)
+- **Correo:** [info@buisar.net](mailto:info@buisar.net)
+- **Web:** [buisar.net](https://buisar.net/)
+- **Ubicación:** Quito, Ecuador.
