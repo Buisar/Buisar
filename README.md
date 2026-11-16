@@ -1,16 +1,26 @@
-## Hi there 👋
+Hola, soy Buisar
+Website
+Email
+Location
 
-<!--
-**Buisar/Buisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre nosotros
+Buisar es una empresa ecuatoriana especializada en productos medicos, insumos
+hospitalarios y servicios de salud. Distribuimos a clinicas, hospitales y
+profesionales de la salud en todo el pais.
 
-Here are some ideas to get you started:
+Lo que hacemos
+Productos medicos certificados (INVIT, equipos, consumibles)
+Servicios de mantenimiento y calibracion de equipos medicos
+Blog de educacion en salud y normativas locales
+Repositorios destacados
+Proyecto
+Descripcion
+buisar-web	Sitio web principal (Next.js / React)
+buisar-tienda	E-commerce de productos medicos
+buisar-blog	CMS del blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Como contactarnos
+Web: https://www.buisar.net
+Email: contabilidad@buisar.net
+Quito, Ecuador
+No olvides revisar nuestros productos medicos.
